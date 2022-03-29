@@ -1,5 +1,5 @@
 # VME
-S
+
 The project replicates the main results in Asness et al (2013) "Value and Momentum Everywhere" paper: 
 - Corrlation table for value and momentum strategies for different asset classes and geographical markets;
 - Principal component analysis for aggregate portfolios.
